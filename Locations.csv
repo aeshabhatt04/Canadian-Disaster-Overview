@@ -1,0 +1,430 @@
+Location_ID,Location,Event_Start_Date,Event_End_Date,Event_ID
+1,Ottawa ON,2014-10-22,2014-10-22,1
+2,Saint-Jean-sur-Richelieu QC,2014-10-20,2014-10-21,2
+3,Quesnel Lake BC,2014-08-04,2014-08-12,3
+4,"Quebec, New Brunswick, Nova Scotia, and Prince Edward Island",2014-07-05,2014-07-06,4
+5,British Columbia,2014-07-01,2014-09-30,5
+6,Southern Saskatchewan,2014-06-25,2014-07-14,6
+7,Northwest Territories,2014-06-01,2014-09-18,7
+8,New Brunswick,2014-04-15,2014-05-02,8
+9,Southern Quebec,2014-04-14,2014-05-01,9
+10,L’Isle-Verte QC,2014-01-23,2014-02-01,10
+11,"Ontario, Quebec and New Brunswick",2013-12-20,2014-01-03,11
+12,Gainsford AB,2013-10-19,2013-10-22,12
+13,Toronto ON,2013-07-08,2013-07-08,13
+14,Southern Alberta,2013-06-19,2013-06-28,14
+15,Southeast British Columbia,2013-06-19,2013-06-21,15
+16,Kasabonika Lake First Nation ON,2013-05-27,2013-05-31,16
+17,Lethbridge and Coalhurst AB,2012-09-10,2012-09-11,17
+18,Peachland BC,2012-09-09,2012-09-12,18
+19,Quebec City,2012-07-31,2012-10-10,19
+20,Sandy Lake First Nation ON,2012-07-31,2012-08-06,20
+21,Island Lake and Garden Hill MB,2012-07-23,2012-08-01,21
+22,Mackenzie County AB,2012-07-11,2012-07-20,22
+23,Northwest River and Sheshatshiu NL,2012-06-24,2012-06-25,23
+24,"Yukon, Northwest Territories and British Columbia",2012-06-06,2012-06-30,24
+25,Thunder Bay ON,2012-05-28,2012-05-28,25
+26,Timmins ON,2012-05-24,2012-06-07,26
+27,Kirkland Lake ON,2012-05-20,2012-05-29,27
+28,Kashechewan and Fort Albany ON,2012-03-24,2012-04-01,28
+29,Burlington ON,2012-02-26,2012-02-27,29
+30,Resolute Bay NU,2011-08-20,2011-08-20,30
+31,"Eckville, Lacombe, Paddle River, Fort Vermilion, and Peace River AB",2011-07-12,2011-07-14,31
+32,Northern Ontario,2011-07-06,2011-07-25,32
+33,Weyburn and Estavan SK,2011-06-17,2011-06-28,33
+34,Vancouver BC,2011-06-15,2011-06-16,34
+35,Hall Lake SK,2011-06-12,2011-06-14,35
+36,Southern Manitoba,2011-06-02,2011-07-09,36
+37,Wollaston Lake SK,2011-06-02,2011-06-09,37
+38,Calgary AB,2011-05-29,2011-05-31,38
+39,Brandon MB,2011-05-10,2011-05-28,39
+40,"Assiniboine, Roseau and Red Rivers MB",2011-04-19,2011-06-17,40
+41,Montérégie QC,2011-04-17,2011-06-22,41
+42,New Brunswick and Nova Scotia,2010-12-13,2010-12-13,42
+43,Lambton County ON,2010-12-12,2010-12-14,43
+44,Gaspé and Bonaventure QC,2010-12-05,2010-12-15,44
+45,Yarmouth County NS,2010-11-04,2010-11-10,45
+46,Newfoundland and Labrador,2010-09-21,2010-09-21,46
+47,Meat Cove NS,2010-08-21,2010-08-22,47
+48,British Columbia,2010-07-28,2010-09-08,48
+49,North Battleford SK,2010-07-22,2010-07-22,49
+50,Calgary AB,2010-07-12,2010-07-12,50
+51,Saskatchewan,2010-06-29,2010-07-02,51
+52,Midland ON,2010-06-23,2010-06-23,52
+53,Val-des-Bois and Gracefield QC,2010-06-23,2010-06-23,53
+54,Cranberry Portage MB,2010-06-23,2010-07-06,54
+55,Southern Alberta and Saskatchewan,2010-06-17,2010-06-17,55
+56,Leamington ON,2010-06-06,2010-06-06,56
+57,Winnipeg MB,2010-05-28,2010-05-30,57
+58,Chapleau ON,2010-05-27,2010-05-27,58
+59,Wemotaci reserve and La Tuque QC,2010-05-23,2010-05-23,59
+60,County of Thorhild AB,2010-05-12,2010-05-12,60
+61,"Glengarry Hospital, Victoria BC",2010-04-06,2010-04-06,61
+62,Baie-Verte and Port Elgin NB,2010-01-02,2010-01-03,62
+63,Nova Scotia and New Brunswick,2009-10-25,2009-10-28,63
+64,Halifax NS,2009-08-23,2009-08-23,64
+65,"Toronto, Windsor, Vaughan and Newmarket ON",2009-08-20,2009-08-20,65
+66,Winnipeg and Steinbach MB,2009-08-14,2009-08-14,66
+67,Déléage and Mont-Laurier QC,2009-08-04,2009-08-04,67
+68,Hamilton and Toronto ON,2009-07-26,2009-07-26,68
+69,Edmonton AB,2009-07-18,2009-07-18,69
+70,Notre-Dame-des-Prairies QC,2009-06-28,2009-07-04,70
+71,"Montreal, Alma, La Tuque and Baie-Saint-Paul QC",2009-05-14,2009-05-14,71
+72,Rock Creek and Henderson Corner YT,2009-05-01,2009-05-01,72
+73,"Kelowna, Kamloops and Cariboo BC",2009-05-01,2009-08-31,73
+74,"Ottawa, Toronto and Windsor ON",2009-04-25,2009-04-25,74
+75,"Saint John, Miramichi and Restigouche River NB",2009-04-05,2009-05-04,75
+76,Across Canada,2009-04-01,2010-02-01,76
+77,"Roseau River First Nation, Sioux Falls, Peguis First Nation, St. Andrews, St. Clements and Selkirk MB",2009-03-24,2009-05-21,77
+78,Saskatchewan and Alberta,2009-03-01,2009-07-01,78
+79,"Vancouver, Fraser Valley and the Greater Vancouver Regional Districts BC",2009-01-06,2009-01-08,79
+80,Greater Vancouver and Fraser Valley BC,2009-01-06,2009-01-08,80
+81,Maritime Provinces,2008-09-28,2008-09-28,81
+82,Kingston ON,2008-09-15,2008-09-15,82
+83,Saint John NB,2008-09-07,2008-09-07,83
+84,Queens County PE,2008-09-06,2008-09-07,84
+85,"Colchester, Pictou, Antigonish, Inverness, Victoria, Cumberland and Halifax NS",2008-08-29,2008-08-31,85
+86,Zama City AB,2008-08-15,2008-08-15,86
+87,Toronto ON,2008-08-10,2008-08-10,87
+88,Across Canada,2008-08-01,2008-08-01,88
+89,Quebec and New Brunswick,2008-07-31,2008-08-04,89
+90,"Gander, Hare Bay and Swift Current NL",2008-07-30,2008-07-30,90
+91,Regina SK,2008-07-22,2008-07-22,91
+92,La Tuque QC,2008-07-22,2008-07-22,92
+93,Toronto ON,2008-07-20,2008-07-20,93
+94,Winnipeg MB,2008-07-11,2008-07-11,94
+95,Deschambault Lake SK,2008-07-01,2008-07-06,95
+96,Lethbridge AB,2008-07-01,2008-07-01,96
+97,Northern Saskatchewan,2008-06-30,2008-06-30,97
+98,Lanaudière QC,2008-06-29,2008-06-29,98
+99,Halifax NS,2008-06-13,2008-06-13,99
+100,Pukatawagan MB,2008-06-10,2008-06-10,100
+101,Montérégie and Eastern Townships QC,2008-06-10,2008-06-13,101
+102,Pangnirtung NU,2008-06-08,2008-06-09,102
+103,Huntingdon QC,2008-05-31,2008-05-31,103
+104,Saint John River NB,2008-05-30,2008-05-30,104
+105,Norway House and Sherridon MB,2008-05-28,2008-05-28,105
+106,High River AB,2008-05-24,2008-05-24,106
+107,Southwest Alberta,2008-05-21,2008-05-25,107
+108,South-Central Manitoba,2008-05-16,2008-05-17,108
+109,Newbrook AB,2008-05-16,2008-05-19,109
+110,James Bay ON,2008-05-09,2008-05-09,110
+111,Hay River NT,2008-05-05,2008-05-07,111
+112,Quebec City QC,2008-04-28,2008-05-02,112
+113,Albany River ON,2008-04-25,2008-04-25,113
+114,Trent Hills ON,2008-04-17,2008-04-17,114
+115,Belleville ON,2008-04-14,2008-04-14,115
+116,Paddockwood SK,2008-04-14,2008-04-14,116
+117,New Brunswick,2008-03-21,2008-03-21,117
+118,Port Bruce ON,2008-02-18,2008-02-18,118
+119,Saint John NB,2008-02-14,2008-02-14,119
+120,Prince Edward Island,2008-01-28,2008-01-28,120
+121,Quebec,2008-01-09,2008-01-09,121
+122,Matane QC,2007-12-17,2007-12-17,122
+123,Prince George BC,2007-12-10,2007-12-10,123
+124,Martime Provinces,2007-12-04,2007-12-04,124
+125,Vancouver BC,2007-11-12,2007-11-12,125
+126,New Brunswick and Nova Scotia,2007-11-04,2007-11-04,126
+127,Halifax and Lunenburg NS,2007-11-03,2007-11-03,127
+128,Gaspé and Riviere-au-Renard QC,2007-08-08,2007-08-09,128
+129,Natuashish NL,2007-08-04,2007-08-07,129
+130,Kootenay BC,2007-08-01,2007-08-01,130
+131,"Peninsulas of Avalon, Burin and Bonavista NL",2007-08-01,2007-08-01,131
+132,Newfoundland,2007-08-01,2007-08-01,132
+133,Edmonton AB,2007-07-21,2007-07-21,133
+134,South Indian Lake MB,2007-07-19,2007-07-26,134
+135,Dartmouth NS,2007-07-05,2007-07-05,135
+136,Elie MB,2007-06-22,2007-06-22,136
+137,"Municipalities of Pipestone, Sifton, Cameron, White water, Morton, Riverside, Turtle Mountain, Strathcona and Argyle and the Whiteshell Provincial Park MB",2007-06-22,2007-06-22,137
+138,Happy Valley - Goose Bay NL,2007-06-16,2007-06-17,138
+139,"Terrace, Smithers & Mount Currie BC",2007-06-05,2007-06-05,139
+140,"Calgary, Edmonton, St. Albert, the town of Stony Plain, Parkland County, Two Hills County, Kneehill County, Camrose, and the municipal districts of Rocky View and Bighorn AB",2007-06-05,2007-06-05,140
+141,Hamilton ON,2007-06-03,2007-06-03,141
+142,Sept-Îles QC,2007-05-27,2007-05-27,142
+143,Windsor ON,2007-05-25,2007-05-25,143
+144,Fishing Lake SK,2007-05-25,2007-05-25,144
+145,Northwest Ontario,2007-05-13,2007-05-13,145
+146,Bellefleur NB,2007-05-10,2007-05-10,146
+147,Gatineau QC,2007-04-23,2007-04-23,147
+148,Red Earth First Nation SK,2007-04-19,2007-04-19,148
+149,Daniels Harbour NL,2007-04-15,2007-04-15,149
+150,Selkirk MB,2007-04-03,2007-04-13,150
+151,Maple Ridge BC,2007-03-12,2007-03-12,151
+152,South Coast and Lower Mainland BC,2006-12-20,2006-12-20,152
+153,Vancouver BC,2006-12-11,2006-12-11,153
+154,Russell ON,2006-12-01,2006-12-02,154
+155,Ontario and Quebec,2006-10-29,2006-10-29,155
+156,Saint-Joseph et Vallée QC,2006-10-28,2006-10-28,156
+157,Sainte-Anne-des-Plaines QC,2006-08-19,2006-08-19,157
+158,Boisbriand QC,2006-08-15,2006-08-15,158
+159,Amherstburg ON,2006-08-15,2006-08-15,159
+160,Galiano Island BC,2006-07-24,2006-07-24,160
+161,Cariboo-Chilcotin BC,2006-07-06,2006-07-06,161
+162,Nordegg AB,2006-07-04,2006-07-07,162
+163,Tumbler Ridge BC,2006-07-03,2006-07-05,163
+164,Mistissini QC,2006-06-16,2006-06-18,164
+165,Aklavik NT,2006-05-27,2006-05-27,165
+166,Slocan River BC,2006-05-20,2006-05-20,166
+167,Kashechewan ON,2006-04-23,2006-04-23,167
+168,Baie Verte Peninsula NL,2006-04-17,2006-04-17,168
+169,Red Earth SK,2006-04-13,2006-04-13,169
+170,Delta BC,2006-02-04,2006-02-04,170
+171,"Lorette River, Quebec City QC",2005-09-26,2005-09-26,171
+172,Kelowna BC,2005-08-28,2005-08-28,172
+173,Southern Ontario,2005-08-19,2005-08-19,173
+174,Northern Saskatchewan,2005-07-23,2005-07-25,174
+175,Chisasibi QC,2005-05-29,2005-05-29,175
+176,Bridgewater NS,2005-05-25,2005-05-27,176
+177,North Vancouver BC,2005-01-17,2005-01-31,177
+178,Grande Prairie AB,2004-07-08,2004-07-08,178
+179,Edmonton AB,2004-07-02,2004-07-11,179
+180,Khyex River BC,2003-11-28,2003-11-28,180
+181,Vancouver Island and Southwestern British Columbia,2003-10-16,2003-10-23,181
+182,Oxford and Truro NS,2003-03-31,2003-03-31,182
+183,Prince Edward Island,2003-03-31,2003-03-31,183
+184,Brantford ON,2002-11-16,2002-11-16,184
+185,Montreal QC,2002-08-12,2002-08-12,185
+186,Dryden ON,2002-07-30,2002-07-30,186
+187,Near community of Sheshatshui and town of North West River NL,2002-07-03,2002-07-03,187
+188,"Nemiscau region, near James Bay QC",2002-07-02,2002-07-02,188
+189,"Kee-Way-Win FN; Townships of Terrace Bay and Schrieber; Village of Rossport; Pays Plat FN; Deer Lake FN, ON",2002-07-01,2002-07-01,189
+190,Hawes/Patuanak SK,2002-06-28,2002-06-30,190
+191,"Crutwell, Dillon, Hatchett Lake, Pelican Narrows, Deschambeault, Wahpeton First Nation, Nordell, Peter Pond SK",2002-06-28,2002-07-01,191
+192,Turnor Lake SK,2002-06-24,2002-06-24,192
+193,"Peerless Lake, Trout Lake AB",2002-06-23,2002-06-23,193
+194,Kingsville ON,2002-06-21,2002-06-21,194
+195,Southern Alberta,2002-06-11,2002-06-11,195
+196,Southeast MB,2002-06-11,2002-06-11,196
+197,"Municipalities of Ignace, Fort Frances, Rainy River, Alberton, Atikokan, Chapple, Dawson, Emo, La Valle, Lake of the Woods, Morley, Machin; Township of Sioux-Narrows - Nestor Falls, ON",2002-06-09,2002-06-09,197
+198,Calgary AB,2002-05-30,2002-05-30,198
+199,Montreal Lake SK,2002-05-20,2002-05-22,199
+200,Northern Alberta and Conklin,2002-05-17,2002-06-07,200
+201,Notre-Dame-du-Lac QC,2002-05-14,2002-05-14,201
+202,Attawapiskat First Nation ON,2002-05-01,2002-05-01,202
+203,Southern coast of Newfoundland,2001-09-19,2001-09-19,203
+204,"Morley, Chapple, Dawson, Emo, Lake of the Woods, La Vallee, Rainy River, Fort Frances ON",2001-07-31,2001-07-31,204
+205,"Across Canada, concentrated in Saskatchewan and Alberta",2001-06-01,2002-10-01,205
+206,Quebec,2001-02-10,2001-02-10,206
+207,Rogers Pass BC,2000-11-27,2000-11-27,207
+208,Sydney NS,2000-11-02,2000-11-11,208
+209,Eastern and Northern Coastline of New Brunswick,2000-10-29,2000-10-29,209
+210,Chetwynd BC,2000-08-01,2000-08-01,210
+211,Pine Lake AB,2000-07-14,2000-07-14,211
+212,Southern Manitoba,2000-07-07,2000-07-14,212
+213,Vanguard SK,2000-07-03,2000-07-03,213
+214,Walkerton ON,2000-05-19,2000-07-14,214
+215,Southern Ontario,2000-04-20,2000-04-21,215
+216,Passmore BC,2000-04-13,2000-04-14,216
+217,Maritime provinces,2000-01-21,2000-01-21,217
+218,Maritime Provinces,2000-01-17,2000-01-22,218
+219,Maritime Provinces,1999-09-23,1999-09-23,219
+220,Prince Edward Island,1999-09-07,1999-09-07,220
+221,Clearwater AB,1999-07-04,1999-07-05,221
+222,Burwash Landing YT,1999-06-12,1999-06-22,222
+223,Melita MB,1999-04-01,1999-04-01,223
+224,Southeastern Saskatchewan,1999-04-01,1999-06-30,224
+225,Toronto ON,1999-01-13,1999-01-15,225
+226,Southern Ontario,1999-01-03,1999-01-03,226
+227,"Greater Vancouver Area, Southern BC",1998-11-23,1998-11-25,227
+228,Salmon Arm BC,1998-08-10,1998-08-17,228
+229,British Columbia,1998-08-01,1998-08-01,229
+230,Tibbet Lake NT,1998-07-22,1998-07-31,230
+231,Eastern Ontario and Quebec,1998-03-28,1998-04-15,231
+232,Saint John River NB,1998-03-09,1998-03-10,232
+233,45 miles southwest of the islands of Saint-Pierre-et-Miquelon,1998-01-16,1998-01-16,233
+234,"Ontario, Quebec and New Brunswick",1998-01-04,1998-01-10,234
+235,Wood Buffalo National Park AB,1998-01-01,1998-01-01,235
+236,Lesser Slave Lake area AB,1997-06-17,1997-06-20,236
+237,Southern British Columbia,1997-05-01,1997-05-01,237
+238,"Assiniboine, Red and Winnipeg Rivers MB",1997-04-22,1997-05-14,238
+239,Peace River AB,1997-04-19,1997-04-23,239
+240,South-Central Saskatchewan,1997-03-30,1997-04-03,240
+241,Southern British Columbia,1997-03-18,1997-03-24,241
+242,Bay of Fundy NB,1997-01-01,1997-01-01,242
+243,Ottawa ON,1996-08-08,1996-08-08,243
+244,Saguenay River Valley QC,1996-07-19,1996-07-19,244
+245,Calgary AB,1996-07-16,1996-07-18,245
+246,Atikokan ON,1996-07-05,1996-07-06,246
+247,Lesser Slave Lake area AB,1996-06-17,1996-06-21,247
+248,Timmins and Dufferin County ON,1996-05-17,1996-05-19,248
+249,"Grey County, Wellington and Dufferin County ON",1996-04-20,1996-04-20,249
+250,"Red River, Souris River, Assiniboine River and Pembina River MB",1996-04-18,1996-05-08,250
+251,Sunny Valley AB,1996-01-01,1996-01-01,251
+252,South Dumfries ON,1996-01-01,1996-01-01,252
+253,Southwestern British Columbia,1995-11-27,1995-11-29,253
+254,Hamilton ON,1995-10-05,1995-10-06,254
+255,Regina SK,1995-09-26,1995-09-26,255
+256,Burin Peninsula NL,1995-09-11,1995-09-11,256
+257,Southern Manitoba,1995-07-30,1995-07-30,257
+258,Southern Ontario,1995-07-13,1995-07-15,258
+259,Southern Alberta,1995-07-10,1995-07-10,259
+260,Sahtu Region of the Northwest Territories,1995-06-06,1995-06-15,260
+261,Southern Alberta,1995-06-06,1995-06-09,261
+262,Southeastern British Columbia,1995-06-05,1995-06-09,262
+263,"East Kooteney (Elk River-Watershed) Region and the municipalities of Sparwood, Fernie and surrounding areas BC",1995-06-01,1995-06-01,263
+264,North Central Saskatchewan,1995-05-29,1995-05-29,264
+265,Western MB,1995-04-01,1995-04-01,265
+266,Northeastern Saskatchewan,1995-04-01,1995-04-01,266
+267,Blanc Sablon QC,1995-03-10,1995-03-10,267
+268,Poplar Bay AB,1995-01-01,1995-01-01,268
+269,Quebec,1995-01-01,1995-01-01,269
+270,Southern ON,1994-08-28,1994-08-28,270
+271,Southern Manitoba,1994-08-27,1994-08-27,271
+272,Aylmer QC,1994-08-04,1994-08-04,272
+273,Salmon Arm BC,1994-08-04,1994-08-04,273
+274,Southwestern Manitoba,1994-08-01,1994-08-01,274
+275,Southern Manitoba,1994-05-18,1994-05-18,275
+276,Plaster Rock NB and Lower St. Lawrence Region QC,1994-04-16,1994-04-26,276
+277,Southern ON,1994-01-28,1994-01-28,277
+278,Alberta to Maritimes,1994-01-23,1994-02-06,278
+279,Southern ON,1994-01-16,1994-01-17,279
+280,Saskatchewan,1993-07-29,1993-07-29,280
+281,Quebec,1993-07-29,1993-07-30,281
+282,Winnipeg MB,1993-07-25,1993-08-14,282
+283,Swan River MB,1993-07-04,1993-07-04,283
+284,Upper Saint John River Valley NB,1993-04-12,1993-04-12,284
+285,Eastern Canada,1993-03-15,1993-03-15,285
+286,Prairie Provinces,1993-01-01,1993-01-01,286
+287,Ontario and Quebec,1992-11-12,1992-11-13,287
+288,"Avalon and Burin Peninsulas and Bonavista, Trinity and Conception Bays NL",1992-10-06,1992-10-06,288
+289,Edmonton AB,1992-09-01,1992-09-01,289
+290,Edmonton AB,1992-08-28,1992-08-28,290
+291,Elmira ON,1992-08-28,1992-08-28,291
+292,Toronto ON,1992-07-31,1992-07-31,292
+293,Calgary AB,1992-07-31,1992-07-31,293
+294,Yukon Rivers YT,1992-06-17,1992-07-30,294
+295,Peace River AB,1992-02-28,1992-03-04,295
+296,Maritime Provinces,1992-02-01,1992-02-04,296
+297,Prairie Provinces,1992-01-01,1992-01-01,297
+298,Lethbridge AB,1992-01-01,1992-01-01,298
+299,Prairies Provinces and Ontario,1992-01-01,1992-01-01,299
+300,Central Ontario,1991-11-30,1991-11-30,300
+301,Maritime Provinces,1991-10-25,1991-11-03,301
+302,Vernon BC,1991-10-16,1991-10-16,302
+303,Calgary AB,1991-09-07,1991-09-07,303
+304,Maskinongé QC,1991-08-27,1991-08-27,304
+305,Southern New Brunswick,1991-08-19,1991-08-19,305
+306,Red Deer AB,1991-07-03,1991-07-03,306
+307,Old Crow YT,1991-05-08,1991-05-09,307
+308,Chaudière River QC,1991-04-07,1991-04-08,308
+309,Notre-Dame de Pierreville QC,1991-04-01,1991-04-01,309
+310,Sarnia ON,1991-03-27,1991-03-27,310
+311,Prairie Provinces,1991-01-01,1991-01-01,311
+312,Madeleine Islands QC,1990-12-16,1990-12-16,312
+313,Newfoundland,1990-12-09,1990-12-09,313
+314,Southwestern British Columbia,1990-11-08,1990-11-13,314
+315,Southern Ontario,1990-08-29,1990-08-29,315
+316,Woodstock NB,1990-08-01,1990-08-01,316
+317,Northumberland Strait (NS and PE),1990-08-01,1990-08-01,317
+318,Old Crow YT,1990-07-20,1990-07-20,318
+319,Calgary AB,1990-07-09,1990-07-09,319
+320,Joe Rich and Southern British Columbia,1990-06-12,1990-06-12,320
+321,Western Alberta,1990-05-25,1990-07-04,321
+322,Prairie Provinces,1990-01-01,1990-01-01,322
+323,British Columbia to Ontario,1989-12-18,1990-01-17,323
+324,Southwestern British Columbia,1989-11-08,1989-11-12,324
+325,"Harrow, Kent, Essex, Leamington counties ON",1989-07-19,1989-07-20,325
+326,Northern Manitoba,1989-05-11,1989-09-20,326
+327,Liard River NT,1989-05-01,1989-05-09,327
+328,Prairie Provinces,1989-01-01,1989-01-01,328
+329,Saguenay region QC,1988-11-25,1988-11-25,329
+330,Saint-Basile-le-Grand QC,1988-08-23,1988-08-23,330
+331,Calgary AB,1988-08-16,1988-08-16,331
+332,Lesser Slave Lake region AB,1988-07-05,1988-07-08,332
+333,Duck Mountain and Swan River MB,1988-04-01,1988-04-01,333
+334,Edmonton AB,1987-07-31,1987-07-31,334
+335,Montreal QC,1987-07-14,1987-07-14,335
+336,Montreal QC,1987-05-29,1987-05-29,336
+337,Perth-Andover NB,1987-04-02,1987-04-02,337
+338,Saskatchewan and Alberta,1986-07-16,1986-07-24,338
+339,North-central Alberta,1986-07-13,1986-07-24,339
+340,Montreal QC,1986-05-29,1986-05-29,340
+341,Southern Alberta,1986-05-14,1986-05-15,341
+342,Icelandic River and Fisher River MB,1986-04-01,1986-06-30,342
+343,Prairie Provinces,1986-01-01,1986-01-01,343
+344,Hopeville to Barrie ON,1985-05-31,1985-05-31,344
+345,Windsor ON,1985-05-30,1985-05-30,345
+346,Pemberton area BC,1984-10-06,1984-10-08,346
+347,Southern Manitoba,1984-06-15,1984-07-31,347
+348,Prairie Provinces,1984-06-01,1984-08-31,348
+349,Chesley ON,1984-04-30,1984-04-30,349
+350,"South, Central and Western Manitoba",1984-04-27,1984-04-28,350
+351,St. John's NL,1984-04-13,1984-04-15,351
+352,Lower Fraser River Valley BC,1984-01-04,1984-01-05,352
+353,Gaspésie QC,1983-12-07,1983-12-07,353
+354,Edmonton AB,1983-08-03,1983-08-03,354
+355,Regina SK,1983-07-08,1983-07-09,355
+356,Manitoba,1983-07-01,1983-07-01,356
+357,Reeces Corners ON,1983-05-03,1983-05-03,357
+358,Prairie Provinces,1983-03-06,1983-03-06,358
+359,"Central, southern, and western Newfoundland",1983-01-11,1983-01-19,359
+360,Prairie Provinces,1983-01-01,1983-01-01,360
+361,Aklavik NT,1982-06-01,1982-06-06,361
+362,Prince Edward Island,1982-02-22,1982-02-22,362
+363,Hay River NT,1982-01-01,1982-01-01,363
+364,Greater Vancouver BC,1981-10-30,1981-10-31,364
+365,Southeastern ON,1981-02-18,1981-02-20,365
+366,Sussex NB,1981-01-01,1981-01-01,366
+367,Prairie Provinces,1981-01-01,1981-01-01,367
+368,Squamish River BC,1980-12-26,1980-12-27,368
+369,Vancouver Island BC,1979-12-18,1979-12-18,369
+370,Dawson YT,1979-05-03,1979-05-03,370
+371,New Brunswick,1979-04-24,1979-05-07,371
+372,Red River region MB,1979-04-01,1979-05-31,372
+373,"Kicking Horse Pass, Alberta - British Columbia border",1978-11-01,1978-11-01,373
+374,Northwestern British Columbia,1978-10-29,1978-11-07,374
+375,Edmonton AB,1978-07-10,1978-07-11,375
+376,Newfoundland,1978-01-14,1978-01-16,376
+377,Prairie Provinces,1977-01-01,1977-01-01,377
+378,Moncton NB,1976-07-12,1976-07-12,378
+379,Assiniboine River MB,1976-04-01,1976-04-01,379
+380,Saint John River Basin NB,1976-03-31,1976-04-05,380
+381,Saskatchewan,1976-03-01,1976-04-15,381
+382,Quebec,1976-03-01,1976-07-15,382
+383,New Brunswick,1976-02-02,1976-02-03,383
+384,"Western, Central and Northern NS",1976-02-02,1976-02-03,384
+385,Regina SK,1975-06-25,1975-06-25,385
+386,Saskatchewan,1975-04-01,1975-05-31,386
+387,Rae Point NT,1974-10-30,1974-10-30,387
+388,Charlottetown PE,1974-07-03,1974-07-03,388
+389,Newfoundland,1974-05-15,1974-07-31,389
+390,Saint John River Basin NB,1974-04-29,1974-04-29,390
+391,Central and Southern Manitoba,1974-04-01,1974-05-31,391
+392,Central and Northern Alberta,1974-03-01,1974-06-30,392
+393,Prairie Provinces,1974-01-01,1974-01-01,393
+394,Saskatchewan,1974-01-01,1974-01-01,394
+395,Maniwaki QC,1974-01-01,1974-06-30,395
+396,"Newfoundland, Prince Edward Island and Nova Scotia",1973-06-17,1973-06-17,396
+397,Prairie Provinces,1973-01-01,1973-01-01,397
+398,Prince George BC,1972-05-01,1972-05-01,398
+399,Dartmouth NS,1971-08-15,1971-08-16,399
+400,Saint-Jean-Vianney QC,1971-05-04,1971-05-04,400
+401,"Sudbury, Lively, Coppercliff and Field ON",1970-08-20,1970-08-20,401
+402,Saint John River Basin NB,1970-02-02,1970-02-06,402
+403,Prairie Provinces,2069-01-01,2069-01-01,403
+404,Maritime Provinces,1968-10-21,1968-10-21,404
+405,Prairie Provinces,2068-01-01,2068-01-01,405
+406,Southern Alberta,1967-04-17,1967-04-20,406
+407,Prairie Provinces,2067-01-01,2067-01-01,407
+408,Maritime Provinces,2064-12-01,2064-12-02,408
+409,Prairie Provinces,2064-01-01,2064-01-01,409
+410,Prairie Provinces,2063-01-01,2063-01-01,410
+411,Prairie Provinces,2062-01-01,2062-01-01,411
+412,Prairie Provinces,2061-01-01,2061-01-01,412
+413,Prairie Provinces,2060-01-01,2060-01-01,413
+414,Maritime Provinces,1959-06-20,1959-06-20,414
+415,Prairie Provinces,2059-01-01,2059-01-01,415
+416,Prairie Provinces,2058-01-01,2058-01-01,416
+417,Quebec and Ontario,2055-07-01,1955-08-31,417
+418,Prairie Provinces,1947-01-30,2047-02-08,418
+419,Prairie Provinces,1941-03-14,1941-03-14,419
+420,Prairie Provinces,2031-01-01,2038-01-01,420
+421,Prairie Provinces,2029-01-01,2029-01-01,421
+422,British Columbia,1924-10-29,1924-10-29,422
+423,Prairie Provinces,2024-01-01,2024-01-01,423
+424,Prairie Provinces,2020-01-01,1920-12-31,424
+425,Prairie Provinces,2019-01-01,1919-12-31,425
+426,Prairie Provinces,2018-01-01,1918-12-31,426
+427,Prairie Provinces,2017-01-01,2017-01-01,427
+428,Prairie Provinces,2014-01-01,2014-01-01,428
+429,Prairie Provinces,2010-01-01,2010-01-01,429
